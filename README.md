@@ -8,7 +8,7 @@ Isolating implicit latent customer groups requires parsing structural coordinate
 1. **Independent Matrix Ingestion**: Utilizes highly stable, zero-dependency statistical cluster generation engines to prevent cloud URL breaks or missing file dependencies.
 2. **Geometric Drop Evaluation (The Elbow Method)**: Runs multi-step iterative loops tracking Within-Cluster Sum of Squares (WCSS / Inertia) configurations from $K=1$ to $K=10$ to find the optimal global cluster boundaries.
 3. **K-Means++ Cluster Initialization**: Deploys advanced smart-center optimization (`k-means++`) to strategically space vector seeds, ensuring stable models and faster convergence.
-4. **Silhouette Separation Validation**: Computes mathematical cluster cohesion and separation bounds to verify geometric separation parameters.
+4. **Silhouette Separation Validation**: Computes mathematical Cluster cohesion and separation bounds to verify geometric separation parameters.
 
 ## 🛠️ Technology Stack & Dependencies
 - **Runtime Environment**: Python 3.x / Jupyter Infrastructure
